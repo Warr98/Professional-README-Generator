@@ -6,9 +6,6 @@
   * [Repository Description](#Repository-Description)
   * [Installation Instructions](#Install)
   * [Usage Information](#Usage)
-  *[References](#Ref)
-  * [Repositiory End-Goal Criterea](#Criterea)
-  * [Future Project](#Future-Project)
   
   # Repository Description
   ###### [Back to Table of Contents](#Table-of-Contents)
