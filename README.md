@@ -1,20 +1,20 @@
-# 
-  ##### []() [Email Me]() [Deployed Application](https://www.youtube.com/channel/UCzyohHEJNSqklS1bwxmuVaA)
-  #### ReadMeGenerator© 2022 All Rights Reserved.  APACHE 2.O All material must be cited or credited, when using material (free to use).
+# Professional-README-Generator
+  ##### Assets\images\w.jpg[Warr98](https://github.com/Warr98) [Email Me](hhuarun@gmail.com) 
+  #### ReadMeGenerator© 2022 All Rights Reserved.  MIT 
   
   ## Table of Contents
   * [Repository Description](#Repository-Description)
   * [Installation Instructions](#Install)
   * [Usage Information](#Usage)
-  *[References](#Ref)
+  * [References](#Ref)
   * [Repositiory End-Goal Criterea](#Criterea)
   * [Future Project](#Future-Project)
   
   # Repository Description
   ###### [Back to Table of Contents](#Table-of-Contents)
+  As a developer, you want a ReadMe generator: this enables you to quickly create a professional README for a new project.
   
-  
-  Remember this also, as a developer, your goal should be designing NEW experiences that makes people's lives simple; because as developers, we solve problems that people didn't even knew they had- even better, in a way that they do not understand: We are the super heroes and heriones of tomorrow; so get coding, and I hope this repository helps you along your development. - [Frederick Thomas](https://www.linkedin.com/in/discoverfrederickthomas/), Super Coding Ninja™
+
   
   ## User Story
   ### As the Quiz Administrator
@@ -31,47 +31,39 @@
   
   ### Contribution Guidelines
   ###### [Back to Table of Contents](#Table-of-Contents)
-  
+  Feel free to fork on this awesome repository.
   
   
   ## Test Instructions
   ###### [Back to Table of Contents](#Table-of-Contents)
-  1.  
-  2.  
-  3.  
+  1.  Ensure that your application includes the require dependacies, by typing the commnd in your integrated terminal "npm install inquirer".
+  2.  Create a .gitignore file and include node_modules/ and .DS_Store/ so that your node_modules directory isn't tracked or uploaded to GitHub.
+  3.  Run “node [fileName].js”
   
   
   ## Overview: What We Accomplished!
   ### Workflow [Back to Table of Contents](#Table-of-Contents)
-  
+  Created an awesome and generic ReadMe.md file; which can be utilize for future endeavors!
   
   
   ### Screenshots (Building this application)
   ###### [Back to Table of Contents](#Table-of-Contents)
-  #### Demo I createad ![script.js]()
+  #### Demo I createad ![script.js](Assets\images\dependency.png)
   
-  #### Demo I createad ![fileGenerator.js]()
+  #### Demo I createad ![fileGenerator.js](Assets\images\Markdown.png)
   
-  #### Demo I createad ![ReadMe.md]()
+  #### Demo I createad ![ReadMe.md](Assets\images\README.png)
   
   
   ## References
   ###### [Back to Table of Contents](#Table-of-Contents)
-  1.  
+  1.  N
   
-  2.  
+  2.  N
   
   ## Repositiory End-Goal Criterea
   ###### [Back to Table of Contents](#Table-of-Contents)
-  
+  The end goal is updating day by day your programming skills and use that skills into that system have been creating.
   
   ## License
-  APACHE 2.O
-  
-  Please feel free to fork and even collaborate with me on this awesome [repository](https://github.com/supercodingninja/CodeQuiz ).  Thank you for viewing! - Frederick Thomas, Super Coding Ninja™ [2014-Present](https://supercodingninja.github.io/) All Rights Reserved
-  
-  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-  
-  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-  
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  MIT
