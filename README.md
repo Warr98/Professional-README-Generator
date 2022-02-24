@@ -1,6 +1,6 @@
 # Professional-README-Generator
-  ##### [Warr98](https://github.com/Warr98) [Email Me](hhuarun@gmail.com) [Deployed Application](https://www.youtube.com/channel/UCzyohHEJNSqklS1bwxmuVaA)
-  #### ReadMeGenerator© 2020 All Rights Reserved.  MIT All material must be cited or credited, when using material (free to use).
+  ##### [Warr98](https://github.com/Warr98)
+  #### ReadMeGenerator© 2022 All Rights Reserved.
   
   ## Table of Contents
   * [Repository Description](#Repository-Description)
@@ -29,9 +29,6 @@
   8.   I want to enter my email address; and then this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions.
   9.   I want to click on the links in the Table of Contents; and then, I am taken to the corresponding section of the README.
   
-  ### Contribution Guidelines
-  ###### [Back to Table of Contents](#Table-of-Contents)
-  
   
   
   ## Test Instructions
@@ -40,29 +37,6 @@
   2.  Create a .gitignore file and include node_modules/ and .DS_Store/ so that your node_modules directory isn't tracked or uploaded to GitHub.
   3.  Run “node [fileName].js”
   
-  
-  ## Overview: What We Accomplished!
-  ### Workflow [Back to Table of Contents](#Table-of-Contents)
-  
-  
-  
-  ### Screenshots (Building this application)
-  ###### [Back to Table of Contents](#Table-of-Contents)
-  #### Demo I createad ![script.js]()
-  
-  #### Demo I createad ![fileGenerator.js]()
-  
-  #### Demo I createad ![ReadMe.md]()
-  
-  
-  ## References
-  ###### [Back to Table of Contents](#Table-of-Contents)
-  1.  
-  
-  2.  
-  
-  ## Repositiory End-Goal Criterea
-  ###### [Back to Table of Contents](#Table-of-Contents)
   
   
   ## License
