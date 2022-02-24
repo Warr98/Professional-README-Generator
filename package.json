@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "inquirer": "^8.2.0"
-  }
+  },
+  "name": "professional-readme-generator",
+  "description": "* [Repository Description](#Repository-Description)   * [Installation Instructions](#Install)   * [Usage Information](#Usage)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Warr98/Professional-README-Generator.git"
+  },
+  "author": "Huarun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Warr98/Professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/Warr98/Professional-README-Generator#readme"
 }

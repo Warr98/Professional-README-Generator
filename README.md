@@ -1,15 +1,18 @@
-# Professional-README-Generator
-  ##### [Warr98](https://github.com/Warr98)
-  #### ReadMeGenerator© 2022 All Rights Reserved.
+# 
+  ##### []() [Email Me]() [Deployed Application](https://www.youtube.com/channel/UCzyohHEJNSqklS1bwxmuVaA)
+  #### ReadMeGenerator© 2022 All Rights Reserved.  APACHE 2.O All material must be cited or credited, when using material (free to use).
   
   ## Table of Contents
   * [Repository Description](#Repository-Description)
   * [Installation Instructions](#Install)
   * [Usage Information](#Usage)
+  *[References](#Ref)
+  * [Repositiory End-Goal Criterea](#Criterea)
+  * [Future Project](#Future-Project)
   
   # Repository Description
   ###### [Back to Table of Contents](#Table-of-Contents)
-  This is my bootcamp homework. It helps you to quickly create a professional README file for a new project.
+  
   
   Remember this also, as a developer, your goal should be designing NEW experiences that makes people's lives simple; because as developers, we solve problems that people didn't even knew they had- even better, in a way that they do not understand: We are the super heroes and heriones of tomorrow; so get coding, and I hope this repository helps you along your development. - [Frederick Thomas](https://www.linkedin.com/in/discoverfrederickthomas/), Super Coding Ninja™
   
@@ -26,18 +29,44 @@
   8.   I want to enter my email address; and then this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions.
   9.   I want to click on the links in the Table of Contents; and then, I am taken to the corresponding section of the README.
   
+  ### Contribution Guidelines
+  ###### [Back to Table of Contents](#Table-of-Contents)
+  
   
   
   ## Test Instructions
   ###### [Back to Table of Contents](#Table-of-Contents)
-  1.  Ensure that your application includes the require dependacies, by typing the commnd in your integrated terminal "npm install inquirer".
-  2.  Create a .gitignore file and include node_modules/ and .DS_Store/ so that your node_modules directory isn't tracked or uploaded to GitHub.
-  3.  Run “node [fileName].js”
+  1.  
+  2.  
+  3.  
   
+  
+  ## Overview: What We Accomplished!
+  ### Workflow [Back to Table of Contents](#Table-of-Contents)
+  
+  
+  
+  ### Screenshots (Building this application)
+  ###### [Back to Table of Contents](#Table-of-Contents)
+  #### Demo I createad ![script.js]()
+  
+  #### Demo I createad ![fileGenerator.js]()
+  
+  #### Demo I createad ![ReadMe.md]()
+  
+  
+  ## References
+  ###### [Back to Table of Contents](#Table-of-Contents)
+  1.  
+  
+  2.  
+  
+  ## Repositiory End-Goal Criterea
+  ###### [Back to Table of Contents](#Table-of-Contents)
   
   
   ## License
-  MIT
+  APACHE 2.O
   
   Please feel free to fork and even collaborate with me on this awesome [repository](https://github.com/supercodingninja/CodeQuiz ).  Thank you for viewing! - Frederick Thomas, Super Coding Ninja™ [2014-Present](https://supercodingninja.github.io/) All Rights Reserved
   
