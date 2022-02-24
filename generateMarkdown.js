@@ -1,6 +1,6 @@
 function generateMarkdown(response) {
   var content = `# ${response.title}
-  ##### ${response.logo}[${response.userName}](${response.GitHub}) [Email Me](${response.email}) 
+  ##### [${response.userName}](${response.GitHub}) [Email Me](${response.email}) 
   #### ReadMeGenerator© 2022 All Rights Reserved.  ${response.license} 
   
   ## Table of Contents
@@ -49,11 +49,11 @@ function generateMarkdown(response) {
   
   ### Screenshots (Building this application)
   ###### [Back to Table of Contents](#Table-of-Contents)
-  #### Demo I createad ![script.js](${response.scriptjs})
+  #### Demo I createad (${response.screenshot1})
   
-  #### Demo I createad ![fileGenerator.js](${response.fileGnerator})
+  #### Demo I createad (${response.screenshot1})
   
-  #### Demo I createad ![ReadMe.md](${response.ReadMe})
+  #### Demo I createad (${response.screenshot3})
   
   
   ## References

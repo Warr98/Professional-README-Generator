@@ -1,5 +1,5 @@
 # Professional-README-Generator
-  ##### Assets\images\w.jpg[Warr98](https://github.com/Warr98) [Email Me](hhuarun@gmail.com) 
+  ##### [Warr98](https://github.com/Warr98) [Email Me](hhuarun@gmail.com) 
   #### ReadMeGenerator© 2022 All Rights Reserved.  MIT 
   
   ## Table of Contents
@@ -48,18 +48,18 @@
   
   ### Screenshots (Building this application)
   ###### [Back to Table of Contents](#Table-of-Contents)
-  #### Demo I createad ![script.js](Assets\images\dependency.png)
+  #### Demo I createad (NONE)
   
-  #### Demo I createad ![fileGenerator.js](Assets\images\Markdown.png)
+  #### Demo I createad (NONE)
   
-  #### Demo I createad ![ReadMe.md](Assets\images\README.png)
+  #### Demo I createad (NONE)
   
   
   ## References
   ###### [Back to Table of Contents](#Table-of-Contents)
-  1.  N
+  1.  NONE
   
-  2.  N
+  2.  NONE
   
   ## Repositiory End-Goal Criterea
   ###### [Back to Table of Contents](#Table-of-Contents)

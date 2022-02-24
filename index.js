@@ -10,10 +10,6 @@ let questions = [
         name: "title"
     },{
         type: "input",
-        message: "Please give your logo information.",
-        name: "logo"
-    },{
-        type: "input",
         message: "What is your GitHub user name?",
         name: "userName"
     },{
@@ -62,16 +58,16 @@ let questions = [
         name: "accomplish"
     },{
         type: "input",
-        message: "Please state provide a screenshot (1 of 3).",
-        name: "scriptjs"
+        message: "Please provide a screenshot (1 of 3).",
+        name: "screenshot1"
     },{
         type: "input",
-        message: "Please state provide a screenshot (2 of 3).",
-        name: "fileGnerator"
+        message: "Please provide a screenshot (2 of 3).",
+        name: "screenshot2"
     },{
         type: "input",
-        message: "Please state provide a screenshot (3 of 3).",
-        name: "ReadMe"
+        message: "Please provide a screenshot (3 of 3).",
+        name: "screenshot3"
     },{
         type: "input",
         message: "Please supply two references (1/2).",
@@ -94,7 +90,7 @@ inquirer.prompt(questions).then(function(response) {
    
     var content = generateMarkdown(response);
     console.log(content);
-     fs.writeFile("./ReadMe.md", content, function(err){
+     fs.writeFile("./README.md", content, function(err){
          if (err) throw err
          console.log("success");
      });
